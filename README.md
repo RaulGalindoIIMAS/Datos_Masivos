@@ -8,8 +8,12 @@ Clase Datos Masivos I
 - Jupyter, Spyder
 
 
+
 Evaluación
-45% Proyecto
-30% Tarea
-15% Exámenes
-10% Participación (Asistencia)
+
+
+- 45% Proyecto
+- 30% Tarea
+- 15% Exámenes
+- 10% Participación (Asistencia)
+
